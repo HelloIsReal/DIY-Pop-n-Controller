@@ -1,5 +1,5 @@
 ---
-title: "DIY Pop'n Controller"
+title: "DIY Pop'n Controller": test
 author: "Tishar"
 description: "A DIY controller to play the popular arcade rhythm game Pop'n Music"
 created_at: "13/08/26"
