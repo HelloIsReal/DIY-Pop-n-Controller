@@ -16,6 +16,8 @@ I'll have to learn how to use a 3d software in order to make a case :pray:
 I spent about half an hour researching buttons, and the cheapest one I found were from Aliexpress.
 Though I'd love to use some blue spring buttons for the extra ~$3 USD per button. Heard they're good.
 
+![BOM with only buttons so far](images/newBOM.png)
+
 **Total time spent: 0.5 hours**
 
 
