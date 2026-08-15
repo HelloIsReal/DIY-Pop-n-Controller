@@ -30,6 +30,8 @@ I've probably spent like 6 hours researching just parts, but I think that's an a
 
 ![BOM with nearly all the parts fill out](images/BOM2.png)
 
+![All the tabs opened during researching](images/researchTabs1.png)
+
 **Total time spent: 3 hours**
 
 
